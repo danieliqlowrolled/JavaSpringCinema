@@ -13,13 +13,7 @@ public class CinemaApplication {
 }
 
 /*
-
 	AUFGABE 1
-
-
-
-
-
-
-
+	Das OOP Paradigma wird auch Objekt orientiertes Programmieren genannt.
+	Man orientiert sich an einem Objekt und versucht diese detailiert zu programieren.
  */

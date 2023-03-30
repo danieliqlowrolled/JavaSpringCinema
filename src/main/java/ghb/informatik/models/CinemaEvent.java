@@ -10,8 +10,7 @@ public class CinemaEvent {
 
     /*   
         AUFGABE 2
-
-
+        In der For - Schleife wird der i Wert so wie der k Wert erhöht, solange dieser kleiner ist als die Sitze, wenn die maximale Anzahl an Sitzen für einen Saal erreicht ist, bricht die Schleife ab. Es werden keine neuen Sitze erstellt, da der Status auf false gesetzt wurde.
     */
     public CinemaEvent(int id, Movie movie, CinemaHall cinemahall, String time){
         setCinemahall(cinemahall);
